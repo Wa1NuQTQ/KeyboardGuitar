@@ -3,4 +3,4 @@
 #include "KeyboardGuitar.h"
 #include "Modules/ModuleManager.h"
 
-IMPLEMENT_PRIMARY_GAME_MODULE( FDefaultGameModuleImpl, KeyboardGuitar, "KeyboardGuitar" );
+IMPLEMENT_PRIMARY_GAME_MODULE(FDefaultGameModuleImpl, KeyboardGuitar, "KeyboardGuitar");
